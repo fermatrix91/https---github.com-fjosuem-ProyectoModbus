@@ -1,0 +1,17 @@
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\bin\Debug\Socatrix.exe
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\bin\Debug\Socatrix.pdb
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\App.baml
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\MainWindow.g.cs
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\App.g.cs
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix_MarkupCompile.cache
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix_MarkupCompile.lref
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\MainWindow.baml
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.g.resources
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.csproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.exe
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.pdb
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\bin\Debug\NModbus4.dll
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\bin\Debug\NModbus4.xml
+c:\users\fernando\documents\visual studio 2013\Projects\Socatrix\Socatrix\obj\Debug\Socatrix.csprojResolveAssemblyReference.cache
